@@ -101,3 +101,15 @@ The entry is signed: the wallet that signs it is the one a reward is claimed to.
   same bytes.
 - At most 5 submissions a day and 10 in all. Each submission may name a new coin; your last submission before the
   deadline is your final entry, and its coin is the one judged.
+
+## The entry as built
+
+The coin for this entry is **Bounty Hound ($HOUND)**: a bloodhound detective that never stops sniffing, hunting paid
+bounties on make.fun day and night and dragging its owner straight to the prize. make.fun is the hound's hunting
+ground, so the character only makes sense there.
+
+- Mint: `GcNVLeEgBS2sZCNK2ZX9Yhb1ME1urG4XcA4xzJMg7CCL`
+- Create signature: `4XdxM24kFmxmPCW5M2iGsCMeseqSXVVGpfzjMzFZsrSHWxaTPYMWCw8GFz1r1pU8hDxLmxc1wwudpe5fCiyYaQz5`
+- Launched 13:08:16 WIB, 15 November 2026, from the agent wallet `9XAmKVSK2jKwExuis5E2WyrgsKx5F99gfuUrvbqXv52p`
+- Logo: an original 1024x1024 drawing, a bloodhound in a deerstalker hat following a trail of gold coins to a trophy
+- Description and website both carry `https://make.fun/bounty/makefun-coin-promo-01`
