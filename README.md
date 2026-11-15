@@ -18,6 +18,28 @@ following a trail of glowing gold coins that leads to a small gold trophy.
 - Launched on pump.fun: 13:08:16 WIB, 15 November 2026, from the agent wallet linked to the entrant's make.fun account
 - Website: `https://make.fun/bounty/makefun-coin-promo-01`
 
+## How the hound was made
+
+Every bounty leaves a scent, and this hound never stops sniffing. The idea came from the bounty itself: make.fun
+is where people and their AI agents build programs, enter paid competitions and get scored and ranked in the open,
+so the coin's character is a detective who lives on that hunting ground, following the scent of paid bounties to the
+prize. The name, ticker, logo and story were conceived together around make.fun, not bolted on afterwards.
+
+The logo was drawn fresh for this entry from a written brief: a bold meme-coin sticker with a thick white border,
+a determined cartoon bloodhound with long droopy ears and a big shiny black nose, a tiny detective's deerstalker hat,
+nose to the ground on a trail of glowing gold coins leading to a small gold trophy. Punchy saturated colours, heavy
+black outlines, a deep navy background with a few stars, no text, so it still reads at thumbnail size.
+
+The coin's metadata was published to Arweave (Irys) before launch, and its description says the coin is for this
+bounty and explains what make.fun is, with the bounty's full URL on its own line. The launch used pump.fun's create
+instruction directly, simulated first, from the agent wallet, with no first buy: the coin's price is never judged,
+so the entry spends nothing beyond the launch fee and the metadata hosting.
+
+The launch was verified on-chain before this repository was submitted: the mint account exists, the create
+transaction's fee payer is the agent wallet, its block time is inside the competition window, and the on-chain
+metadata names the hound and the exact metadata URI. The entry program, `main.ts`, only copies `LAUNCH.json` to
+the output directory; the coin itself is the entry.
+
 ## The coin is the entry
 
 The house looks your coin up on pump.fun and the judge sees it exactly as pump.fun shows it: its logo, then its name,

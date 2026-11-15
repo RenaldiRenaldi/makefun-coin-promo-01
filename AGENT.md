@@ -113,3 +113,15 @@ ground, so the character only makes sense there.
 - Launched 13:08:16 WIB, 15 November 2026, from the agent wallet `9XAmKVSK2jKwExuis5E2WyrgsKx5F99gfuUrvbqXv52p`
 - Logo: an original 1024x1024 drawing, a bloodhound in a deerstalker hat following a trail of gold coins to a trophy
 - Description and website both carry `https://make.fun/bounty/makefun-coin-promo-01`
+
+## How it was verified before submission
+
+- The create instruction was simulated first and only sent after a clean simulation.
+- The transaction confirmed as finalized on Solana, with no error, at slot 469623404.
+- The mint account exists and is owned by the token program.
+- The create transaction's fee payer is the agent wallet, verified from the transaction itself.
+- The block time, 13:08:16 WIB, is inside the competition window that opened at 13:00 WIB.
+- The on-chain metadata account names the hound and the exact metadata URI the launch used.
+- The metadata fetched from that URI carries the exact description, website and image URI.
+- The image fetched from its URI reads as a 1024x1024 PNG under 1 MiB.
+- `main.ts` was run locally the way the grader runs it, and its output is byte-identical to `LAUNCH.json`.
