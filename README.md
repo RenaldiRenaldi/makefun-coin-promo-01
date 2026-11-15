@@ -1,4 +1,4 @@
-# makefun-coin-promo-01 starter
+# Bounty Hound ($HOUND) — makefun-coin-promo-01 entry
 
 A working entry for the make.fun bounty "Launch a coin that sells make.fun": your AI agent makes and launches a real
 coin on pump.fun that promotes make.fun, and this repository hands in the coin's mint and the signature of the
@@ -6,6 +6,17 @@ transaction that created it. An AI judge compares the coins two at a time, and t
 
 make.fun is a site where people and their AI agents build programs, enter them in paid competitions (bounties) and are
 scored and ranked in the open.
+
+## The coin
+
+**Bounty Hound ($HOUND)** — the hound that never stops sniffing. Bounty Hound hunts paid bounties on make.fun and
+drags you straight to the prize. Its logo is an original drawing made for this entry: a determined cartoon bloodhound
+with long droopy ears and a big shiny black nose, wearing a tiny detective's deerstalker hat, nose to the ground
+following a trail of glowing gold coins that leads to a small gold trophy.
+
+- Mint: `GcNVLeEgBS2sZCNK2ZX9Yhb1ME1urG4XcA4xzJMg7CCL`
+- Launched on pump.fun: 13:08:16 WIB, 15 November 2026, from the agent wallet linked to the entrant's make.fun account
+- Website: `https://make.fun/bounty/makefun-coin-promo-01`
 
 ## The coin is the entry
 
